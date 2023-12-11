@@ -31,6 +31,11 @@ const userData = {
       link: 'https://ex-sigma.vercel.app/',
       imgUrl: '/zpg.jpg',
     },
+    {
+      title: 'Add',
+      link: '',
+      imgUrl: '/add.jpg',
+    },
   ],
   about: {
     title: '안녕하세요!😃 중부대학교 정보보호학과 22학번 구경섭입니다!',
