@@ -17,9 +17,19 @@ const userData = {
       imgUrl: '/clerk.png',
     },
     {
-      title: 'To be added',
-      link: '',
-      imgUrl: '/add.jpg',
+      title: 'Dapara',
+      link: 'https://dapara-rose.vercel.app/',
+      imgUrl: '/dapara.jpg',
+    },
+    {
+      title: 'Crud2',
+      link: 'crud2-mu.vercel.app',
+      imgUrl: '/crud2.jpg',
+    },
+    {
+      title: 'ZPG',
+      link: 'https://ex-sigma.vercel.app/',
+      imgUrl: '/zpg.jpg',
     },
   ],
   about: {
@@ -52,6 +62,11 @@ const userData = {
       title: '정보보호학과 합격 후 현재',
       company: '2023년도',
       desc: '학업과 독학 병행, 자격증 준비 등 다양한 활동',
+    },
+    {
+      title: '웹서버보안프로그래밍 수업을 들으며...',
+      company: '2023년도',
+      desc: '다양한 웹페이지들을 만들며 백엔드 개발에도 더욱 관심을 가지게 됨',
     },
   ],
 
